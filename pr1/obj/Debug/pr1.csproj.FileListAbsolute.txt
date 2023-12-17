@@ -1,0 +1,8 @@
+A:\programming\pr1\pr1\bin\Debug\pr1.exe.config
+A:\programming\pr1\pr1\bin\Debug\pr1.exe
+A:\programming\pr1\pr1\bin\Debug\pr1.pdb
+A:\programming\pr1\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
+A:\programming\pr1\pr1\obj\Debug\pr1.csproj.SuggestedBindingRedirects.cache
+A:\programming\pr1\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+A:\programming\pr1\pr1\obj\Debug\pr1.exe
+A:\programming\pr1\pr1\obj\Debug\pr1.pdb
